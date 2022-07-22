@@ -3,5 +3,6 @@
 > git init
 
 Чтобы добавить файл файлы к коммиту, мы используем:  
-> git add
-> git add.
+> git add  
+> git1 add.  
+> end
