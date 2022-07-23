@@ -99,3 +99,9 @@ __*Оба стиля из \* и \_*__
 
 Привет, [Док](https://doka.guide "Энциклопедия про web-dev")!
 
+У [Доки][1] есть свой [репозиторий][repo].
+
+
+[1]: https://doka.guide "Энциклопедия про web-dev"
+[repo]: https://github.com/doka-guide "Репозиторий Доки"
+
