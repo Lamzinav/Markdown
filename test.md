@@ -105,3 +105,6 @@ __*Оба стиля из \* и \_*__
 [1]: https://doka.guide "Энциклопедия про web-dev"
 [repo]: https://github.com/doka-guide "Репозиторий Доки"
 
+Заходите на <https://doka.guide>
+или присылайте нам письма на <hi@doka.guide>
+
